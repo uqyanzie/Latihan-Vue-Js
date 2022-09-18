@@ -1,4 +1,6 @@
-# Latihan-project
+# Latihan-Vue-Js
+
+Memanfaatkan News API dan data rendering dengan Vue Js dalam bentuk SFC
 
 This template should help get you started developing with Vue 3 in Vite.
 
